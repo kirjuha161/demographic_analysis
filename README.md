@@ -5,6 +5,7 @@
 Установка
 Клонируйте репозиторий:
 git clone https://github.com/kirjuha161/demographic_analysis.git
+
 cd demographic_analysis
 
 Установите зависимости:
